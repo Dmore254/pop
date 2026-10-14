@@ -55,8 +55,8 @@
       </block>
     </statement>
   </block>
-  <block type="during_purchase" id="EAW}Pl3:+lbOJG[9T)`p" x="714" y="110">
-    <statement name="DURING_PURCHASE_STACK">
+  <block type="Stacking Trades" id="EAW}Pl3:+lbOJG[9T)`p" x="714" y="110">
+    <statement name="STACKING TRADES">
       <block type="controls_if" id="Mh+Wuwgj`NDQbYa+_)A9">
         <value name="IF0">
           <block type="check_sell" id="iVPao_Hl4Eg?ovU!GX!-"></block>
