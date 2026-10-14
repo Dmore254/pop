@@ -11,7 +11,7 @@
             <field name="TRADETYPE_LIST">highlowticks</field>
             <next>
               <block type="trade_definition_contracttype" id="d-p`2hMKf6mQX+fA0k[6" deletable="false" movable="false">
-                <field name="TYPE_LIST">both</field>
+                <field name="TYPE_LIST">symotenius</field>
                 <next>
                   <block type="trade_definition_candleinterval" id="PB#Owsc]378WTf6@G%?v" deletable="false" movable="false">
                     <field name="CANDLEINTERVAL_LIST">60</field>
