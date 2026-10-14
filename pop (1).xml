@@ -77,6 +77,6 @@
     </statement>
   </block>
   <block type="purchase" id="yPc_xk_%rW#.jn;X0PIU" collapsed="true" disabled="true" x="188" y="945">
-    <field name="PURCHASE_LIST">TICKHIGH</field>
+    <field name="PURCHASE_LIST">TICKLOW</field>
   </block>
 </xml>
